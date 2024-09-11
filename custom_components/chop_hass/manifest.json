@@ -1,0 +1,10 @@
+{
+  "domain": "chop_hass",
+  "documentation": "http://github.com/abratchik/chop_hass",
+  "issue_tracker": "http://github.com/abratchik/chop_hass/issues",
+  "name": "CHOP project integration",
+  "version": "0.1",
+  "codeowners": ["@abratchik"],
+  "integration_type": "service",
+  "dependencies": ["mqtt", "http", "frigate"]
+}
